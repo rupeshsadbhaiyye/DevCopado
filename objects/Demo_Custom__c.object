@@ -165,7 +165,6 @@
     <visibility>Public</visibility>
     <fields>
         <fullName>Field_One__c</fullName>
-        
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
         <label>Field One</label>
